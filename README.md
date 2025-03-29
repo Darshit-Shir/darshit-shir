@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshit Shir</h1>
 <h3 align="center">Full Stack Developer | Passionate about Web & SaaS Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darshit-Shir&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-shir" /> </p>
-
 ## 👨‍💻 About Me  
 - 💼 Currently working as a **Full Stack Developer at Shaligram Infotech, Ahmedabad**  
 - 🏗 Experienced in **Frontend & Backend Development, API Design, Database Management, and Cloud Technologies**  
