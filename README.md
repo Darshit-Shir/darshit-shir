@@ -1,29 +1,59 @@
-<h1 align="center">Hi 👋, I'm darshit shir</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Darshit Shir</h1>
+<h3 align="center">Full Stack Developer | Passionate about Web & SaaS Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shir-darshit&label=Profile%20views&color=0e75b6&style=flat" alt="shir-darshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Darshit-Shir&label=Profile%20views&color=0e75b6&style=flat" alt="darshit-shir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shir-darshit" alt="shir-darshit" /></a> </p>
+## 👨‍💻 About Me  
+- 💼 Currently working as a **Full Stack Developer at Shaligram Infotech, Ahmedabad**  
+- 🏗 Experienced in **Frontend & Backend Development, API Design, Database Management, and Cloud Technologies**  
+- ⚡ Passionate about **Scalable Web Applications, SaaS Platforms & Cloud Solutions**  
+- 💬 Ask me about **ASP.NET Core, Angular, Web APIs, SQL, AWS**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/darshit-shir-913a481b8/)**  
 
-- 🌱 I’m currently learning **React js,Node js**
+---
 
-- 👯 I’m looking to collaborate on **web development projects**
+## 💻 Tech Stack  
+### **Languages**  
+- C#, JavaScript, TypeScript, LINQ, SQL, HTML, CSS  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shir-darshit](https://github.com/Shir-darshit)
+### **Frontend**  
+- Angular, Bootstrap  
 
-- 💬 Ask me about **technology and gaming**
+### **Backend**  
+- .NET, ASP.NET Core, Web API  
 
-- 📫 How to reach me **https://www.linkedin.com/in/darshit-shir-913a481b8**
+### **Databases & ORM**  
+- SQL Server, Entity Framework  
 
-<h3 align="left">Connect with me:</h3>
+### **Cloud & Tools**  
+- AWS (IAM Users, S3, Secrets Manager), GitHub, Git, Visual Studio, Postman, VS Code  
+
+---
+
+## 🚀 Projects  
+### **Driver Rental System**  
+- Developed a web application to efficiently manage driver rentals for **admins, employees, clients, and payroll managers**.  
+- Implemented **booking management, driver & vehicle assignments, and financial reporting**.  
+- Integrated **AWS S3** for secure storage and optimized performance.  
+- **Tools Used:** Angular, ASP.NET Core, C#, Web API, MS SQL Server, AWS S3  
+
+### **Easy Law**  
+- Built core functionality for an **online legal services platform** enabling dispute resolution and legal consultations.  
+- Developed **case tracking, document sharing, and mediation tools** using **Vonage Video API**.  
+- Integrated **Stripe** for secure online payments.  
+- **Tools Used:** Angular, .NET Core, C#, MS SQL Server, Web API, Vonage API, Stripe  
+
+### **Car Insurance Management System**  
+- Designed a system for **insurance policy management, claims tracking, and premium calculations**.  
+- Implemented **customer portals, agent dashboards**.  
+- **Tools Used:** Angular, ASP.NET Core, C#, Web API, SQL Server  
+
+---
+
+## 🔗 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/darshit-shir-913a481b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/darshit-shir" height="30" width="40" /></a>
-<a href="https://instagram.com/shir_darshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shir_darshit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darshit-shir-913a481b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/shir_darshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shir-darshit&show_icons=true&locale=en" alt="shir-darshit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shir-darshit&" alt="shir-darshit" /></p>
+---
